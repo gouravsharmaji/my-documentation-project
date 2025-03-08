@@ -1,0 +1,23 @@
+# My First Documentation Project
+
+This is a simple documentation project where I will describe my learning journey in different subjects.
+
+## Table of Contents
+1. [Introduction](#introduction)
+2. [Learning Python](#learning-python)
+3. [Learning Git](#learning-git)
+
+## Introduction
+This documentation project aims to capture the different topics I learn. It will help me in organizing my thoughts and ideas.
+
+## Learning Python
+Python is an easy-to-learn programming language. Here are some key topics I learned:
+- Basic syntax
+- Data types
+- Functions
+
+## Learning Git
+Git is a version control system that allows me to track changes in my projects. The following topics were covered:
+- Git init
+- Git add, commit
+- Git push, pull
